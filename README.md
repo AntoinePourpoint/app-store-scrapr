@@ -1,7 +1,8 @@
 
 # app-store-scrapr
 
-![Black Code Style](https://img.shields.io/badge/code%20style-black-100000.svg)
+[![Black Code Style](https://img.shields.io/badge/code%20style-black-100000.svg)](https://github.com/python/black)
+[![PyPI](https://img.shields.io/pypi/v/app-store-scrapr.svg)](https://pypi.org/project/app-store-scrapr/)
 
 `app-store-scrapr` is a Python library for scraping reviews from the Apple App Store. It provides an easy-to-use interface to gather reviews for iOS apps.
 
